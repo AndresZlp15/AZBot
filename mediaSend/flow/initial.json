@@ -1,0 +1,172 @@
+[
+    {
+        "keywords":  [
+            "hola",
+            "hola!",
+            "ola",
+            "ole",
+            "inicio",
+            "welcome",
+            "buenos días",
+            "buenas tardes",
+            "buenas noches",
+            "me dieron este número",
+            "quisiera saber si venden",
+            "necesito saber",
+            "main",
+            "buenas",
+            "menu"
+        ],
+        "key": "STEP_1"
+    },
+    {
+        "keywords":  [
+            "precios"        
+        ],
+        "key": "STEP_2"
+    },
+    {
+        "keywords":  [
+            "1",
+            "servicios",
+            "que venden"
+        ],
+        "key": "STEP_2_1"
+    },
+    {
+        "keywords":  [
+            "2",
+            "metodos de pago",
+            "como puedo pagar",
+            "por donde pago",
+            "por donde puedo pagar"
+        ],
+        "key": "STEP_2_2"
+    },
+    {
+        "keywords":  [
+            "3",
+            "cambie de numero"
+        ],
+        "key": "STEP_2_3"
+    },
+    {
+        "keywords":  [
+            "4",
+            "promocion",
+            "promocion del mes",
+            "descuento del mes"
+        ],
+        "key": "STEP_2_4"
+    },
+    {
+        "keywords":  [
+            "5",
+            "soy distribuidor",
+            "quiero ser distribuidor"
+        ],
+        "key": "STEP_2_5"
+    },
+    {
+        "keywords":  [
+            "netflix",
+            "cuenta de netflix",
+            "pantalla de netflix",
+            "netflix completa"
+        ],
+        "key": "STEP_3"
+    },
+    {
+        "keywords":  [
+            "youtube",
+            "youtube premium"
+        ],
+        "key": "STEP_4"
+    },
+    {
+        "keywords":  [
+            "disney+",
+            "disney",
+            "disneyplus",
+            "pantalla de disney",
+            "disney completa",
+            "disney+",
+            "cuenta de disney+",
+            "cuenta de disneyplus",
+            "cuenta de disney"
+        ],
+        "key": "STEP_5"
+    },
+    {
+        "keywords":  [
+            "amazon",
+            "prime video",
+            "amazon prime",
+            "prime",
+            "pantalla de amazon prime",
+            "pantalla de amazon",
+            "pantalla de prime video",
+            "pantalla de prime",
+            "cuenta de amazon"
+        ],
+        "key": "STEP_6"
+    },
+    {
+        "keywords":  [
+            "hbo",
+            "hbo max",
+            "hbomax",
+            "pantalla de hbo max",
+            "pantalla de hbo",
+            "pantalla de hbomax"
+        ],
+        "key": "STEP_7"
+    },
+    {
+        "keywords":  [
+            "spotify",
+            "spotify premium"
+        ],
+        "key": "STEP_8"
+    },
+    {
+        "keywords":  [
+            "plex",
+            "pantalla de plex",
+            "plex completa",
+            "cuenta de plex completa"
+        ],
+        "key": "STEP_9"
+    },
+    {
+        "keywords":  [
+            "canva",
+            "canva pro",
+            "canva premium"
+        ],
+        "key": "STEP_10"
+    },
+    {
+        "keywords":  [
+            "combos",
+            "que combos tiene",
+            "combos disponibles",
+            "manejan combos"
+        ],
+        "key": "STEP_11"
+    },
+    {
+        "keywords":  [
+            "star+",
+            "star",
+            "starplus",
+            "pantalla de star",
+            "star completa",
+            "star+",
+            "cuenta de star+",
+            "cuenta de starplus",
+            "cuenta de star"
+        ],
+        "key": "STEP_12"
+    }
+]

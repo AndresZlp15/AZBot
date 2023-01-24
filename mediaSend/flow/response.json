@@ -1,0 +1,199 @@
+{
+    "DEFAULT":{
+        "replyMessage":[
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_0":{
+        "replyMessage":[
+            "Para conocer los planes con mayor tiempo\n",
+            "ingresa a:\n",
+            "https://shopzlp.com/netflix"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_1":{
+        "replyMessage":[
+            "⚡ Bienvenidos 🚀\n",
+            "Escoge una opción por favor.\n",
+            "👇🏼 De 1 a 5.\n",
+            "-------------------------------------\n",
+            "*1* | Conocer portafolio de servicios. 🍿\n",
+            "*2* | Metodos de pago. 💰\n",
+            "*3* | Ya tengo servicio con ustedes. 👤 (cambié de número)\n",
+            "*4* | Promocion del mes. 🛒\n",
+            "*5* | Información para distribuidores. 💸"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2":{
+        "replyMessage":[
+            "*Escribe el nombre del servicio que buscas.*"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_1":{
+        "replyMessage":[
+            "*Escribe el nombre del servicio que buscas.*"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_2":{
+        "replyMessage":[
+            "Los medió de pago que manejamos es:\n",
+            "\n",
+            "Depósito por *CORRESPONSAL BANCOLOMBIA* indicas hacer un pago a *NEQUI*\n",
+            "*REFERENCIA* 3242028110\n",
+            "\n",
+            "Bancolombia:\n",
+            "*REFERENCIA* 44243949316\n",
+            "\n",
+            "PSE: https://recarga.nequi.com.co/\n",
+            "*REFERENCIA* 3242028110\n",
+            "\n",
+            "⚡ *Si deseas otro medio de pago avísanos* ⚡"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_3":{
+        "replyMessage":[
+            "Entendido, escribe tu numero antiguo para actualizar nuestra base de datos."
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2_4":{
+        "replyMessage":[
+            "Promocion valida hasta el ultimo dia del mes"
+        ],
+        "media":"https://i.andreszlp15.com/MPROMOCION.jpeg",
+        "trigger":null
+    },
+    "STEP_2_5":{
+        "replyMessage":[
+            "Uno de nuestros asesores te atendera muy pronto."
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_3":{
+        "replyMessage":[
+            "El precio de Netflix es:\n",
+            "\n",
+            "1 Pantalla mes: 11.000 \n",
+            "2 Pantallas mes: 20.000\n",
+            "3 Pantallas mes: 29.000\n",
+            "Cuenta completa mes: 35.000\n",
+            "\n",
+            "Deseas planes de mayor tiempo?\n",
+            "Avisanos y te daremos el precio"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_4":{
+        "replyMessage":[
+            "Youtube premium 4 meses tiene un valor de 16.000"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5":{
+        "replyMessage":[
+            "El precio de Disney+ es:\n",
+            "\n",
+            "1 Pantalla mes: 6.000 \n",
+            "2 Pantallas mes: 8.500\n",
+            "3 Pantallas mes: 11.000\n",
+            "Cuenta completa mes: 13.000\n",
+            "\n",
+            "Deseas planes de mayor tiempo?\n",
+            "Avisanos y te daremos el precio"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_6":{
+        "replyMessage":[
+            "El precio de Prime Video es:\n",
+            "\n",
+            "1 Pantalla mes: 5.000 \n",
+            "2 Pantallas mes: 7.500\n",
+            "Cuenta completa mes: 10.000\n",
+            "\n",
+            "Deseas planes de mayor tiempo?\n",
+            "Avisanos y te daremos el precio"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_7":{
+        "replyMessage":[
+            "El precio de Hbo max es:\n",
+            "\n",
+            "1 Pantalla mes: 5.000 \n",
+            "2 Pantallas mes: 7.500\n",
+            "Cuenta completa mes: 10.000\n",
+            "\n",
+            "Deseas planes de mayor tiempo?\n",
+            "Avisanos y te daremos el precio"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_8":{
+        "replyMessage":[
+            "Spotify premium 3 meses tiene un valor de 15.000"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_9":{
+        "replyMessage":[
+            "El precio de Plex es:\n",
+            "\n",
+            "1 pantalla mes: 7.000 \n",
+            "Cuenta completa mes: 16.000"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_10":{
+        "replyMessage":[
+            "El precio de Canva Pro es:\n",
+            "\n",
+            "1 mes: 7.000 \n",
+            "2 meses: 12.000\n",
+            "3 meses: 17.000\n",
+            "6 meses: 30.000\n",
+            "12 meses: 42.000"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_12":{
+        "replyMessage":[
+            "El precio de Star+ es:\n",
+            "\n",
+            "1 Pantalla mes: 7.500 \n",
+            "2 Pantallas mes: 10.000\n",
+            "3 Pantallas mes: 13.000\n",
+            "Cuenta completa mes: 16.500"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_11":{
+        "replyMessage":[
+            "Que plataformas quieres comprar en combo?"
+        ],
+        "media":null,
+        "trigger":null
+    }
+}
